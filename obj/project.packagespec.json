@@ -1,0 +1,73 @@
+﻿{
+  "version": "3.0.0",
+  "restore": {
+    "projectUniqueName": "C:\\Users\\10251214\\Downloads\\WordFormatter\\WordFormatter.csproj",
+    "projectName": "WordFormatter",
+    "projectPath": "C:\\Users\\10251214\\Downloads\\WordFormatter\\WordFormatter.csproj",
+    "outputPath": "C:\\Users\\10251214\\Downloads\\WordFormatter\\obj\\",
+    "projectStyle": "PackageReference",
+    "crossTargeting": true,
+    "fallbackFolders": [
+      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "net46",
+      "net461",
+      "net472"
+    ],
+    "sources": {
+      "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+      "https://api.nuget.org/v3/index.json": {}
+    },
+    "frameworks": {
+      "net46": {
+        "projectReferences": {}
+      },
+      "net461": {
+        "projectReferences": {}
+      },
+      "net472": {
+        "projectReferences": {}
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "net46": {
+      "dependencies": {
+        "DocumentFormat.OpenXml": {
+          "target": "Package",
+          "version": "[2.13.0, )"
+        }
+      },
+      "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+    },
+    "net461": {
+      "dependencies": {
+        "DocumentFormat.OpenXml": {
+          "target": "Package",
+          "version": "[2.13.0, )"
+        }
+      },
+      "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+    },
+    "net472": {
+      "dependencies": {
+        "DocumentFormat.OpenXml": {
+          "target": "Package",
+          "version": "[2.13.0, )"
+        }
+      },
+      "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+    }
+  },
+  "runtimes": {
+    "win7-x86": {
+      "#import": []
+    }
+  }
+}

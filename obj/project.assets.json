@@ -1,0 +1,229 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.6": {
+      "DocumentFormat.OpenXml/2.13.0": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "System",
+          "System.Xml",
+          "System.Xml.Linq",
+          "WindowsBase"
+        ],
+        "compile": {
+          "lib/net46/DocumentFormat.OpenXml.dll": {}
+        },
+        "runtime": {
+          "lib/net46/DocumentFormat.OpenXml.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.6/win7-x86": {
+      "DocumentFormat.OpenXml/2.13.0": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "System",
+          "System.Xml",
+          "System.Xml.Linq",
+          "WindowsBase"
+        ],
+        "compile": {
+          "lib/net46/DocumentFormat.OpenXml.dll": {}
+        },
+        "runtime": {
+          "lib/net46/DocumentFormat.OpenXml.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.6.1": {
+      "DocumentFormat.OpenXml/2.13.0": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "System",
+          "System.Xml",
+          "System.Xml.Linq",
+          "WindowsBase"
+        ],
+        "compile": {
+          "lib/net46/DocumentFormat.OpenXml.dll": {}
+        },
+        "runtime": {
+          "lib/net46/DocumentFormat.OpenXml.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.6.1/win7-x86": {
+      "DocumentFormat.OpenXml/2.13.0": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "System",
+          "System.Xml",
+          "System.Xml.Linq",
+          "WindowsBase"
+        ],
+        "compile": {
+          "lib/net46/DocumentFormat.OpenXml.dll": {}
+        },
+        "runtime": {
+          "lib/net46/DocumentFormat.OpenXml.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.7.2": {
+      "DocumentFormat.OpenXml/2.13.0": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "System",
+          "System.Xml",
+          "System.Xml.Linq",
+          "WindowsBase"
+        ],
+        "compile": {
+          "lib/net46/DocumentFormat.OpenXml.dll": {}
+        },
+        "runtime": {
+          "lib/net46/DocumentFormat.OpenXml.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.7.2/win7-x86": {
+      "DocumentFormat.OpenXml/2.13.0": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "System",
+          "System.Xml",
+          "System.Xml.Linq",
+          "WindowsBase"
+        ],
+        "compile": {
+          "lib/net46/DocumentFormat.OpenXml.dll": {}
+        },
+        "runtime": {
+          "lib/net46/DocumentFormat.OpenXml.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DocumentFormat.OpenXml/2.13.0": {
+      "sha512": "0m9oxdnAwIyq6+0L/bGfyPkkakPuVI/zT5AYQgN5jbMmNJkCVFLiZmtjtqXrTbStCBJu/yxS3nS/6zTe2mT1Nw==",
+      "type": "package",
+      "path": "documentformat.openxml/2.13.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "documentformat.openxml.2.13.0.nupkg.sha512",
+        "documentformat.openxml.nuspec",
+        "icon.png",
+        "lib/net35/DocumentFormat.OpenXml.dll",
+        "lib/net35/DocumentFormat.OpenXml.xml",
+        "lib/net40/DocumentFormat.OpenXml.dll",
+        "lib/net40/DocumentFormat.OpenXml.xml",
+        "lib/net46/DocumentFormat.OpenXml.dll",
+        "lib/net46/DocumentFormat.OpenXml.xml",
+        "lib/netstandard1.3/DocumentFormat.OpenXml.dll",
+        "lib/netstandard1.3/DocumentFormat.OpenXml.xml",
+        "lib/netstandard2.0/DocumentFormat.OpenXml.dll",
+        "lib/netstandard2.0/DocumentFormat.OpenXml.xml"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.6": [
+      "DocumentFormat.OpenXml >= 2.13.0"
+    ],
+    ".NETFramework,Version=v4.6.1": [
+      "DocumentFormat.OpenXml >= 2.13.0"
+    ],
+    ".NETFramework,Version=v4.7.2": [
+      "DocumentFormat.OpenXml >= 2.13.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\10254634\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "3.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\10254634\\Downloads\\WordFormatter_DotNet\\WordFormatter\\WordFormatter.csproj",
+      "projectName": "WordFormatter",
+      "projectPath": "C:\\Users\\10254634\\Downloads\\WordFormatter_DotNet\\WordFormatter\\WordFormatter.csproj",
+      "packagesPath": "C:\\Users\\10254634\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\10254634\\Downloads\\WordFormatter_DotNet\\WordFormatter\\obj\\",
+      "projectStyle": "PackageReference",
+      "crossTargeting": true,
+      "configFilePaths": [
+        "C:\\Users\\10254634\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net46",
+        "net461",
+        "net472"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Workspace\\InfoStratus\\Dev\\Synapsys\\3rdParty": {},
+        "C:\\Workspace\\InfoStratus\\Dev\\Synapsys\\3rdParty\\IDM": {},
+        "https://api.nuget.org/v3/index.json": {},
+        "https://www.myget.org/F/aspnetmaster/api/v2/": {}
+      },
+      "frameworks": {
+        "net46": {
+          "targetAlias": "net46",
+          "projectReferences": {}
+        },
+        "net461": {
+          "targetAlias": "net461",
+          "projectReferences": {}
+        },
+        "net472": {
+          "targetAlias": "net472",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net46": {
+        "targetAlias": "net46",
+        "dependencies": {
+          "DocumentFormat.OpenXml": {
+            "target": "Package",
+            "version": "[2.13.0, )"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+      },
+      "net461": {
+        "targetAlias": "net461",
+        "dependencies": {
+          "DocumentFormat.OpenXml": {
+            "target": "Package",
+            "version": "[2.13.0, )"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+      },
+      "net472": {
+        "targetAlias": "net472",
+        "dependencies": {
+          "DocumentFormat.OpenXml": {
+            "target": "Package",
+            "version": "[2.13.0, )"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+      }
+    },
+    "runtimes": {
+      "win7-x86": {
+        "#import": []
+      }
+    }
+  }
+}

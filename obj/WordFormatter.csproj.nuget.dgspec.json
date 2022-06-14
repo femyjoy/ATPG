@@ -1,0 +1,92 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\10254634\\Downloads\\WordFormatter_DotNet\\WordFormatter\\WordFormatter.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\10254634\\Downloads\\WordFormatter_DotNet\\WordFormatter\\WordFormatter.csproj": {
+      "version": "3.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\10254634\\Downloads\\WordFormatter_DotNet\\WordFormatter\\WordFormatter.csproj",
+        "projectName": "WordFormatter",
+        "projectPath": "C:\\Users\\10254634\\Downloads\\WordFormatter_DotNet\\WordFormatter\\WordFormatter.csproj",
+        "packagesPath": "C:\\Users\\10254634\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\10254634\\Downloads\\WordFormatter_DotNet\\WordFormatter\\obj\\",
+        "projectStyle": "PackageReference",
+        "crossTargeting": true,
+        "configFilePaths": [
+          "C:\\Users\\10254634\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net46",
+          "net461",
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Workspace\\InfoStratus\\Dev\\Synapsys\\3rdParty": {},
+          "C:\\Workspace\\InfoStratus\\Dev\\Synapsys\\3rdParty\\IDM": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://www.myget.org/F/aspnetmaster/api/v2/": {}
+        },
+        "frameworks": {
+          "net46": {
+            "targetAlias": "net46",
+            "projectReferences": {}
+          },
+          "net461": {
+            "targetAlias": "net461",
+            "projectReferences": {}
+          },
+          "net472": {
+            "targetAlias": "net472",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net46": {
+          "targetAlias": "net46",
+          "dependencies": {
+            "DocumentFormat.OpenXml": {
+              "target": "Package",
+              "version": "[2.13.0, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        },
+        "net461": {
+          "targetAlias": "net461",
+          "dependencies": {
+            "DocumentFormat.OpenXml": {
+              "target": "Package",
+              "version": "[2.13.0, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        },
+        "net472": {
+          "targetAlias": "net472",
+          "dependencies": {
+            "DocumentFormat.OpenXml": {
+              "target": "Package",
+              "version": "[2.13.0, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win7-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
